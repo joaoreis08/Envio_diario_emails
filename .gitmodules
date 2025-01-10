@@ -1,0 +1,3 @@
+[submodule "uos"]
+	path = uos
+	url = https://github.com/leonardobrahim/send-mail-seplag.git
